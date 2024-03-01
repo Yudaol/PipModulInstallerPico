@@ -11,8 +11,11 @@ plug your pico while holding the BOOTSEL button check image 1
 
 ## download section:
 MicroPython for pico ---> ```https://micropython.org/download/RPI_PICO/```
+
 MicroPython for picoW ---> ```https://micropython.org/download/RPI_PICO_W/```
+
 thonny ---> ```https://thonny.org```
+
 vscode ---> ```https://marketplace.visualstudio.com/items?itemName=paulober.pico-w-go```
 
 
