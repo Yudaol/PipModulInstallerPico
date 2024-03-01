@@ -3,10 +3,15 @@ An installer with python off "pip"/mip modul on raspberryPI pico and pico w
 
 ## How to use:
 1- download
+
 2- download the lastest MicroPython link down here
+
 plug your pico while holding the BOOTSEL button check image 1
+
 3- drag the .uf2 file into your pico reconize as a usb
+
 4- you can use the software thonny or an integration on vscode or anything else you know to run the code...
+
 5- enjoy!
 
 ## download section:
