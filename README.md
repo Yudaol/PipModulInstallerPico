@@ -20,4 +20,5 @@ vscode ---> ```https://marketplace.visualstudio.com/items?itemName=paulober.pico
 
 
 ## image:
+BOOTSEL Button:
 ![Pico-bootsel](https://github.com/Yudaol/PipModulInstallerPico/assets/92973701/91da33da-28ed-477a-b41f-561099ab1d6b)
