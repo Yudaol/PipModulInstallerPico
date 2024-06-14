@@ -1,29 +1,36 @@
 # PipModulInstallerPico
-An installer with python off "pip"/mip modul on raspberryPI pico and pico w
 
-## How to use:
-1- download
+An installer for Python "pip"/mip modules on Raspberry Pi Pico and Pico W.
 
-2- download the lastest MicroPython link down here
+## How to Use
 
-3- plug your pico while holding the BOOTSEL button check image 1
+1. **Download the Installer**
 
-4- drag the .uf2 file into your pico reconize as a usb
+2. **Download the Latest MicroPython**
 
-5- you can use the software thonny or an integration on vscode or anything else you know to run the code...
+   - MicroPython for Pico: [Download](https://micropython.org/download/RPI_PICO/)
+   - MicroPython for Pico W: [Download](https://micropython.org/download/RPI_PICO_W/)
 
-6- enjoy!
+3. **Prepare Your Pico**
 
-## download section:
-MicroPython for pico ---> ```https://micropython.org/download/RPI_PICO/```
+   - Plug in your Pico while holding the BOOTSEL button. (See image below)
+   - Drag the `.uf2` file into your Pico, which will appear as a USB drive.
 
-MicroPython for picoW ---> ```https://micropython.org/download/RPI_PICO_W/```
+4. **Run the Code**
 
-thonny ---> ```https://thonny.org```
+   - You can use the Thonny IDE, a VSCode extension, or any other software you prefer to run the code.
 
-vscode ---> ```https://marketplace.visualstudio.com/items?itemName=paulober.pico-w-go```
+5. **Enjoy!**
 
+## Download Section
 
-## image:
-BOOTSEL Button:
+- MicroPython for Pico: [Download](https://micropython.org/download/RPI_PICO/)
+- MicroPython for Pico W: [Download](https://micropython.org/download/RPI_PICO_W/)
+- Thonny: [Download](https://thonny.org)
+- VSCode Extension: [Download](https://marketplace.visualstudio.com/items?itemName=paulober.pico-w-go)
+
+## Image
+
+### BOOTSEL Button
+
 ![Pico-bootsel](https://github.com/Yudaol/PipModulInstallerPico/assets/92973701/91da33da-28ed-477a-b41f-561099ab1d6b)
